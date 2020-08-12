@@ -1,2 +1,2 @@
 # SKFortnite
-SKFortnite is a minecraft script that makes fortnite, in minecraft !
+SKFortnite is a minecraft script that makes Fortnite, in minecraft !
